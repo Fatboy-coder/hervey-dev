@@ -1,0 +1,3 @@
+# MyFirstProject
+![Hireable Badge](https://img.shields.io/badge/🚀%20I'm%20available%20for%20hire-00b894?style=for-the-badge&logo=github)
+Projet d'apprentissage Python avec PyCharm et Git.
